@@ -1,4 +1,4 @@
-A room made in blender
+A room made in blender. I made versions with and without lights.
 
 <img src="render1_light.png"></img>
 <img src="render1_nolight.png"></img>
