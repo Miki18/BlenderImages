@@ -4,6 +4,8 @@ I made a park in blender and redered with cycles. The main topic was autumn.
 <img src="big_tree_camera.png"></img>
 
 <b>Credits</b><br>
+(links for images that I used for textures)
+
 https://www.google.com/search?q=diorite+texture&tbm=isch&ved=2ahUKEwiIreaqrIiCAxVDEBAIHTlgCMIQ2-cCegQIABAA&oq=diorite+text&gs_lcp=CgNpbWcQARgAMgcIABATEIAEMgcIABATEIAEMgcIABATEIAEMggIABAFEB4QEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzoECCMQJzoFCAAQgAQ6BAgAEB46CAgAEAgQHhATUMABWOAIYPYMaABwAHgAgAFAiAHmApIBATaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=vGU0ZYjfBsOgwPAPucChkAw&bih=947&biw=1920&client=firefox-b-d#imgrc=tU7iuXWkUjhxaM
 
 https://www.google.com/search?q=planks+texture+download&tbm=isch&ved=2ahUKEwicmOmXmY6CAxWRHxAIHXbwBd0Q2-cCegQIABAA&oq=planks+texture+download&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BAgAEB46BggAEAUQHjoGCAAQCBAeUIMCWPsZYN8aaANwAHgAgAFGiAGeBpIBAjEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=9nY3ZZzFHJG_wPAP9uCX6A0&bih=947&biw=1920&client=firefox-b-d#imgrc=sT8RfSqcJMqvFM
